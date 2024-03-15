@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "360005657651",
+    "project_id": "clarify-9d4fc",
+    "storage_bucket": "clarify-9d4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360005657651:android:5c35f98530f3d3ef952f46",
+        "android_client_info": {
+          "package_name": "com.hamadabachar.mod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360005657651-730jdb1hj4lg3qldsp0tf2des8cg0mkf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamadabachar.mod",
+            "certificate_hash": "ca2dc6c301588db9b81acbcc303d65f67c68711d"
+          }
+        },
+        {
+          "client_id": "360005657651-c1f02s6gb9q87qn6jvr7nmjh22r19ctv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hamadabachar.mod",
+            "certificate_hash": "ee9545c1ca28255db05ae93b83b19ef4c3210d9f"
+          }
+        },
+        {
+          "client_id": "360005657651-tp81pl3b5l2ph88idrqgti9o2btkrke9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7fnGBiQQELdlfvzh_j7rga7QrXsJ-kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360005657651-tp81pl3b5l2ph88idrqgti9o2btkrke9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "360005657651-dvncntc2k0ef2deu0um9rlmin9s76ec4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hamadabachar.cla"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
